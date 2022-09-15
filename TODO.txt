@@ -1,0 +1,7 @@
+--- TODO ---
+
+0%   - Recursion stuff
+
+0%   - Integer manipulation
+0.1% - String manipulation
+0%   - Add try catch for type errors and add simplified errors 

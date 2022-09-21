@@ -19,4 +19,7 @@ public class EasyJava {
       }
       return newString;
    }
+   public static int getRandom(int start, int stop) {
+      return (int) ((Math.random() * (stop - start)) + start + 0.5);
+   }
 }
